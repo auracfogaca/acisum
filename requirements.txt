@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+requests
+pydub
+librosa
+essentia
+spleeter
+numpy
+scipy
